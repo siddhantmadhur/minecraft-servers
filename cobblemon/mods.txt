@@ -5,3 +5,8 @@ https://cdn.modrinth.com/data/TXoSDUCh/versions/oDoWm6Jm/CobblemonExtras-fabric-
 https://cdn.modrinth.com/data/HXF82T3G/versions/abgjJ6PO/BiomesOPlenty-fabric-1.21.1-21.1.0.12.jar
 https://cdn.modrinth.com/data/fFEIiSDQ/versions/DGhfsUAq/supplementaries-1.21-3.4.20-fabric.jar
 https://cdn.modrinth.com/data/LOpKHB2A/versions/kgXi5E7a/waystones-fabric-1.21.1-21.1.23.jar
+https://cdn.modrinth.com/data/P7dR8mSH/versions/m6zu1K31/fabric-api-0.116.7%2B1.21.1.jar
+https://cdn.modrinth.com/data/s3dmwKy5/versions/lbSHOhee/GlitchCore-fabric-1.21.1-2.1.0.0.jar
+https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar
+https://cdn.modrinth.com/data/twkfQtEc/versions/a2QJRQNK/moonlight-1.21-2.25.5-fabric.jar
+https://cdn.modrinth.com/data/MBAkmtvl/versions/hCOOmlbI/balm-fabric-1.21.1-21.0.53.jar
