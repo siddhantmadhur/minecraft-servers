@@ -1,0 +1,7 @@
+https://cdn.modrinth.com/data/MdwFAVRL/versions/v77SHSXW/Cobblemon-fabric-1.6.1%2B1.21.1.jar
+https://cdn.modrinth.com/data/lfHFW1mp/versions/WvOAHk8e/journeymap-fabric-1.21.1-6.0.0-beta.52.jar
+https://cdn.modrinth.com/data/u6dRKJwZ/versions/PHhLn8uG/jei-1.21.1-fabric-19.25.0.324.jar
+https://cdn.modrinth.com/data/TXoSDUCh/versions/oDoWm6Jm/CobblemonExtras-fabric-1.4.2.jar
+https://cdn.modrinth.com/data/HXF82T3G/versions/abgjJ6PO/BiomesOPlenty-fabric-1.21.1-21.1.0.12.jar
+https://cdn.modrinth.com/data/fFEIiSDQ/versions/DGhfsUAq/supplementaries-1.21-3.4.20-fabric.jar
+https://cdn.modrinth.com/data/LOpKHB2A/versions/kgXi5E7a/waystones-fabric-1.21.1-21.1.23.jar
